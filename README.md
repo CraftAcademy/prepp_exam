@@ -1,13 +1,15 @@
 ## Preparatory course exam challenge
 
 ### Format
-Online. Plese share the screen you will be working on. Keep it shared at all times throughout the exam. 
+
+Online. Please share the screen you will be working on. Keep sharing your screen at all time throughout the exam. 
+
 
 ### Time
 60 minutes from start. There will be a timer visible on the screen schared by your coach. If you want to keep track of the time yoursef, visit https://marinaratimer.com/coding_timer
 
 ### Delivery
-At the end of the exam, you need to submit a link to a GitHub repository with the solution. Please note that you can not push any commits to your repository after the exam has ended. 
+At the end of the exam, you need to submit a link to your GitHub repository with the solution. Please note that you can not push any commits to your repository after the exam has ended. 
 
 ### Challenge
 **BMI Calculator Formula**
