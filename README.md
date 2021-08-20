@@ -31,7 +31,7 @@ it can also be written like this:
 
 The new way of calculating BMI is:
 
-  _1.3 x weight(kg)/height(m)2.5<sup>2.5</sup>_
+  _1.3 x weight(kg)/height(m)<sup>2.5</sup>_
 
 "one point three times weight in kilograms divided by height in meters to the power of two and a half" (Swedish: "upphöjt till 2.5")
 
@@ -43,7 +43,7 @@ In JavaScript, you can make use of `Math.pow()` to calculate power of. This meth
 
 ```
 1.86 * 1.86 = 3.4596000000000005
-Math.pow(1.86, 2) = = 3.4596000000000005
+Math.pow(1.86, 2) = 3.4596000000000005
 ```
 
 ## Good luck!
