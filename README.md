@@ -1,7 +1,9 @@
 ## Preparatory course exam challenge
 
 ### Format
+
 Online. Please share the screen you will be working on. Keep sharing your screen at all time throughout the exam. 
+
 
 ### Time
 60 minutes from start. There will be a timer visible on the screen schared by your coach. If you want to keep track of the time yoursef, visit https://marinaratimer.com/coding_timer
@@ -11,11 +13,11 @@ At the end of the exam, you need to submit a link to your GitHub repository with
 
 ### Challenge
 **BMI Calculator Formula**
-For nearly 200 years now, medical professionals the world over have used the universally accepted Body Mass Index (BMI) to help assess the overall state of a person’s health.
+For nearly 200 years now, medical professionals around the world over have used the universally accepted Body Mass Index (BMI) to help assess the overall state of a person’s health.
 
 Experts have identified a flaw in the basic BMI formula and have recently come up with a new calculation which presents a more realistic result as it scales more accurately in relation to a person’s height.
 
-**Old forula**
+**Old formula**
 
 The way we have calculated the BMI value before was:
 
