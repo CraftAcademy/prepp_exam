@@ -1,7 +1,7 @@
 ## Preparatory course exam challenge
 
 ### Format
-Online. Please schare the screen you will be working on. Keep sharing your screen at all time throughout the exam. 
+Online. Please share the screen you will be working on. Keep sharing your screen at all time throughout the exam. 
 
 ### Time
 60 minutes from start. There will be a timer visible on the screen schared by your coach. If you want to keep track of the time yoursef, visit https://marinaratimer.com/coding_timer
